@@ -1,0 +1,11 @@
+#packages to install as requirements. Will be one of last layers of the image.
+numpy
+#docopt
+pandas
+#matplotlib
+#plotly
+#scipy
+#xlrd
+#scikit-learn
+#openpyxl
+#seaborn

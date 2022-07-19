@@ -1,3 +1,5 @@
+#ignore password file
+azuredevopspat
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

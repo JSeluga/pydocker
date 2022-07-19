@@ -1,0 +1,10 @@
+#helper packages for vs code
+ipykernel
+#mkdocs packages for documentation building
+#mkdocs
+#mkdocs-autorefs
+#mkdocs-material
+#mkdocstrings
+#mkdocstrings[python]
+#mkdocs-material-extensions
+
